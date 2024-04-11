@@ -1,0 +1,21 @@
+{
+    "course" : {
+        "passing_grade": 5
+    },
+
+    "assignments": {
+        "weight": 0.3,
+        "passing_grade": 5.5,
+        "grades": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+
+    "exam": {
+        "weight": 0.9,
+        "passing_grade": 5
+    }
+}
