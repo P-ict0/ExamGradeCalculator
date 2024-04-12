@@ -4,8 +4,10 @@ This Python program calculates the passing grade needed for a course based on th
 
 ## Usage
 
-Edit the grades in `grades.json`.
+1. Edit the grades in `grades.json`.
+
+2. Run the program
 
  ```bash
-python passing-grade-calculator.py
+python3 passing-grade-calculator.py
 ```
