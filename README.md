@@ -1,6 +1,6 @@
 # Passing Grade Calculator
 
-This Python program calculates the passing grade needed for a course based on the grades obtained in assignments and exams.
+This Python program calculates the passing grade needed for a course based on the grades obtained in assignments.
 
 ## Usage
 
